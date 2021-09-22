@@ -144,10 +144,11 @@ describe('Data driven testing',function() {
 })
 
 13. Alerts Handling
+
+
 /// <reference types="cypress"/>
  
 describe('Alerts Handling',function() {
- 
     it('Verify Alerts are handled Automatically',function() {
  
         cy.visit("https://rahulshettyacademy.com/AutomationPractice/");
