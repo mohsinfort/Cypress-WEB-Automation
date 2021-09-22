@@ -1,0 +1,6 @@
+{
+  "defaultCommandTimeout": 30000,
+  "pageLoadTimeout": 90000,
+  "requestTimeout": 60000,
+  "projectId": "4zq1k6"
+}
