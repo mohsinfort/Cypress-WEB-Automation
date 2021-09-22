@@ -1,6 +1,6 @@
 # Cypress-WEB-Automation
 
-#Navigate to URL 
+Navigate to URL 
 	Use visit(“URL”) to navigate to a URL.
         cy.visit("https://demo.nopcommerce.com")
 
